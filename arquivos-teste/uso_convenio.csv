@@ -1,0 +1,8 @@
+id_uso,nome_convenio,tipo_convenio,data_uso,tipo_atendimento,id_funcionario
+1,Plano Saúde Ouro,saúde,2023-01-15,consulta médica,1
+2,Dental Sorriso,odontológico,2023-02-20,limpeza,2
+3,Plano Saúde Prata,saúde,2023-03-10,exame sangue,3
+4,Vale Transporte,transporte,2023-01-05,recarga mensal,4
+5,Gym Fit,academia,2023-04-12,matrícula,5
+6,Plano Saúde Ouro,saúde,2023-05-18,consulta especialista,1
+7,Dental Sorriso,odontológico,2023-06-22,restauração,3

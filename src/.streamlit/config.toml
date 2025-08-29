@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#3b5264"        # Cor de botões e destaques
+backgroundColor = "#8799a2"     # Fundo principal
+secondaryBackgroundColor = "#3b5264"  # Fundo de caixas e sidebar
+textColor = "#d7d9bc"           # Cor do texto
+font = "sans serif"             # Opções: "sans serif", "serif", "monospace"

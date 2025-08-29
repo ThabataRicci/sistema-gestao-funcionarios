@@ -1,0 +1,6 @@
+id_funcionario,nome,cpf,data_nascimento,empresa,cnpj
+1,João Silva,123.456.789-00,1985-05-15,Empresa A,12.345.678/0001-90
+2,Maria Souza,987.654.321-00,1990-08-22,Empresa B,98.765.432/0001-21
+3,Carlos Oliveira,456.789.123-00,1978-11-30,Empresa A,12.345.678/0001-90
+4,Ana Pereira,321.654.987-00,1995-03-10,Empresa C,32.165.498/0001-75
+5,Pedro Santos,789.123.456-00,1982-07-18,Empresa B,98.765.432/0001-21

@@ -1,6 +1,8 @@
 ## Visão Geral
 Aplicativo web para gestão de dados de funcionários e uso de convênios corporativos, desenvolvido com Streamlit e SQLite.
 
+Acesse online aqui: https://sistema-gestao-funcionarios.streamlit.app/
+
 ## Funcionalidades Principais
 - 📤 Upload de arquivos CSV (arquivos para teste inclusos na pasta)
 - 👀 Visualização de dados com nomes amigáveis
